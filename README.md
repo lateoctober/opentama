@@ -37,7 +37,9 @@ Being an open-source hardware design, anyone can manufacture his/her own board. 
 
 4. Buy a battery
 
-	The design has been made assuming a 1000mAh 40x30x12mm Li-Po/Li-ion battery. If you don't have a battery available or don't want to use one, you can instead use solder to bridge the pads `JP2` on the rear of the MCUGotchi and power it via USB-C.   
+	The design has been made assuming a 1000mAh 40x30x12mm Li-Po/Li-ion battery. 
+
+	If you don't have a battery available or don't want to use one, you can use solder to bridge the pads `JP2` on the rear of the MCUGotchi and power it via USB-C.   
 
 5. Plug or solder the display
 
